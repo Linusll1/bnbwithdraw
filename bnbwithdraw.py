@@ -2,6 +2,7 @@ from binance.client import Client
 
 api_key = ''
 api_secret = ''
+# апи ключ
 
 client = Client(api_key, api_secret)
 
